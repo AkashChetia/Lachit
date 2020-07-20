@@ -33,7 +33,7 @@ The temperature sensor attached in the cap will collect the temperature data of 
 1. HC-SR04 ultrasonic sensor<br> 
 2. Blynk ESP8266 DHT11 Temperature sensor<br>   
 3. Buzzer<br>     
-4. Node MCU<br>  
+4. Node MCU/ BT module<br>  
 5. Battery<br>  
 6. CAP<br> 
 
@@ -45,7 +45,7 @@ The temperature sensor attached in the cap will collect the temperature data of 
 1. HC-SR04 ultrasonic sensor (₹ 105 - ₹ 250)<br>
 2. Blynk ESP8266 DHT11 Temperature sensor (₹ 99 - ₹150)<br>
 3. Buzzer (₹10 - ₹20)<br>
-4. Node MCU (₹235 - ₹300)<br>
+4. Node MCU/BT module (₹235 - ₹300)<br>
 5. Battery (₹15 - ₹20)<br>
 6. Cap (₹100 - ₹150)<br>
 
