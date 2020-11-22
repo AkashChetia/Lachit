@@ -55,19 +55,19 @@ Total cost [including miscellaneous items]: ₹564 - ₹900<br>
 Name of the group members and affiliation: 
 
 1. Member 1:  Akash Chetia (Assam Engineering College, Jalukbari)
-                        Branch: Electronics and Telecommunication Engineering
-                        Contact No: 8876416010
-                        Email: achetia037@gmail.com
+                      <br>  Branch: Electronics and Telecommunication Engineering
+                       <br> Contact No: 8876416010
+                       <br> Email: achetia037@gmail.com
 
 2. Member 2:  Reckon Mazumdar (Assam Engineering College, Jalukbari)
-                        Branch: Computer Science and Engineering
-                        Contact No: 8761985619
-                        Email: reckonmazumdar12@gmail.com
+                     <br>   Branch: Computer Science and Engineering
+                      <br>  Contact No: 8761985619
+                      <br>  Email: reckonmazumdar12@gmail.com
 
 3. Member 3:  Kunjal Sarma (Assam Engineering College, Jalukbari)
-                        Branch: Computer Science and Engineering
-                        Contact No: 9706162975
-                        Email: kunjalsarma.10@gmail.com
+                     <br>   Branch: Computer Science and Engineering
+                     <br>   Contact No: 9706162975
+                     <br>   Email: kunjalsarma.10@gmail.com
 
 
 
